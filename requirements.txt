@@ -1,0 +1,12 @@
+psycopg2-binary 
+pandas 
+matplotlib
+fastapi
+uvicorn
+databases
+python-dotenv
+python-multipart
+pydantic
+pydantic-settings
+sqlalchemy 
+asyncpg
