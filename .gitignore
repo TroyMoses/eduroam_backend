@@ -1,0 +1,8 @@
+__pycache__
+analyze_log.py
+logs.py
+logs2.py
+/venv
+.env
+/app/__pycache__
+/app/main2.py
